@@ -79,6 +79,7 @@ How to Run the Project Locally:
 
 Step 1: Clone the Repository
 git clone https://github.com/girija1607/Fake-News-Detection-System.git
+
 cd fake-news-detector
 
 Step 2: Create Virtual Environment
@@ -131,7 +132,7 @@ Build a Browser Extension
 Author:
 Girija Singhal  
 Artificial Intelligence & Full Stack Developer  
-Email: your-email@example.com  
+Email: girijasinghal1607@gmail.com  
 GitHub: (https://github.com/girija1607)  
 
 
