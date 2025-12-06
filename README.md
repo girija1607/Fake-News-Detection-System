@@ -78,7 +78,7 @@ If confidence ≥ 60% → Shows FAKE or REAL clearly
 How to Run the Project Locally:
 
 Step 1: Clone the Repository
-git clone https://github.com/your-username/fake-news-detector.git
+git clone https://github.com/girija1607/Fake-News-Detection-System.git
 cd fake-news-detector
 
 Step 2: Create Virtual Environment
@@ -132,6 +132,6 @@ Author:
 Girija Singhal  
 Artificial Intelligence & Full Stack Developer  
 Email: your-email@example.com  
-GitHub: https://github.com/your-username  
+GitHub: (https://github.com/girija1607)  
 
 
